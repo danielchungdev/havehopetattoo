@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Jane Smith",
+        "specialties": ["traditional", "new school", "tribal", "japanese and oriental", "watercolor", "freehand", "pointillism/dotwork"],
+        "description": "Jane Smith is a seasoned tattoo artist with over a decade of experience in the industry. Her passion for intricate designs and attention to detail set her apart. Jane specializes in a wide range of styles, including traditional, new school, tribal, Japanese and oriental, watercolor, freehand, and pointillism/dotwork. Her work is known for its unique blend of creativity and technical skill, earning her a loyal clientele. With a background in fine arts and a deep understanding of tattooing techniques, Jane creates stunning pieces that resonate with her clients on a personal level. When she's not in the studio, Jane enjoys exploring new artistic mediums and drawing inspiration from the world around her.",
+        "activeyears": 10,
+        "dateOfBirth": "1985-07-15",
+        "pictureurl": "profile.jpg",
+        "id": 1,
+        "work": ["work1.jpg", "work2.jpg", "work3.jpg", "work4.jpg"]
+    },
+    {
+        "name": "John Doe",
+        "specialties": ["tribal", "japanese and oriental", "watercolor", "freehand", "pointillism/dotwork", "traditional", "new school"],
+        "description": "John Doe is a versatile tattoo artist known for his ability to blend various styles seamlessly. With eight years of experience under his belt, John has honed his craft to create unique and meaningful tattoos for his clients. His specialties include tribal, Japanese and oriental, watercolor, freehand, pointillism/dotwork, traditional, and new school. John's artistic journey began at a young age, fueled by a passion for drawing and a fascination with tattoo culture. Over the years, he has developed a distinctive style that combines elements of his favorite genres while adding his own creative twist. Whether it's a bold statement piece or a delicate design, John approaches each project with enthusiasm and dedication, ensuring that his clients leave satisfied with a work of art they can proudly wear for a lifetime.",
+        "activeyears": 8,
+        "dateOfBirth": "1990-04-23",
+        "pictureurl": "profile.jpg",
+        "id": 2,
+        "work": ["work1.jpg", "work2.jpg", "work3.jpg", "work4.jpg"]
+    },
+    {
+        "name": "Robert Brown",
+        "specialties": ["japanese and oriental", "watercolor", "freehand", "pointillism/dotwork", "traditional", "new school", "tribal"],
+        "description": "Robert Brown is a veteran tattoo artist with over 15 years of experience pushing the boundaries of creativity. His bold and expressive designs have left a lasting mark on the tattoo industry. Specializing in Japanese and oriental, watercolor, freehand, pointillism/dotwork, traditional, new school, and tribal styles, Robert's portfolio showcases his versatility and artistic prowess. Growing up surrounded by art and inspired by the world around him, Robert knew from an early age that tattooing was his calling. He approaches each project with meticulous attention to detail, ensuring that every line and shade is precisely executed. Robert's dedication to his craft and commitment to his clients have earned him a reputation as one of the top tattoo artists in the business.",
+        "activeyears": 15,
+        "dateOfBirth": "1978-12-10",
+        "pictureurl": "profile.jpg",
+        "id": 3,
+        "work": ["work1.jpg", "work2.jpg", "work3.jpg"]
+    },
+    {
+        "name": "Sarah Williams",
+        "specialties": ["watercolor", "freehand", "pointillism/dotwork", "traditional", "new school", "tribal", "japanese and oriental"],
+        "description": "Sarah Williams is a rising star in the tattoo community, known for her delicate touch and unique artistic style. With six years of experience, Sarah has quickly made a name for herself as a sought-after artist. Her specialties include watercolor, freehand, pointillism/dotwork, traditional, new school, tribal, and Japanese and oriental styles. Sarah's journey into tattooing began with a love for drawing and a desire to explore different mediums of expression. She approaches each tattoo as a collaborative process, working closely with her clients to bring their visions to life. Sarah's attention to detail and commitment to quality ensure that every tattoo she creates is a work of art that her clients cherish for years to come.",
+        "activeyears": 6,
+        "dateOfBirth": "1993-08-20",
+        "pictureurl": "profile.jpg",
+        "id": 4,
+        "work": ["work1.jpg", "work2.jpg"]
+    }
+]
