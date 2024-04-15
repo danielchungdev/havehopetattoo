@@ -29,7 +29,7 @@ export const ArtistCard: FC<ArtistCardProps> = ({ artist }) => {
                             {
                                 artist.work.map((work, index) => (
                                     <div className="w-[300px] m-auto" key={index}>
-                                        <Image src={getArtistImageUrl(artist.name, work)} height={500} width={300} alt={`Work #${index + 1}`} />
+                                        <Image src={getArtistImageUrl(artist.name, work)} height={500} width={300} alt={`Work #${index + 1}`} blurDataURL=""/>
                                     </div>
                                 ))
                             }

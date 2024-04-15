@@ -1,6 +1,7 @@
 import { FC } from "react"
 import { Title } from "../Title"
 import { Button } from "../Button"
+import Link from "next/link"
 
 interface ServiceCardProps {
     title: string,
@@ -15,7 +16,9 @@ export const ServiceCard: FC<ServiceCardProps> = ({ title, description }) => {
             <Title title={title} />
             <p className="h-36">{description}</p>
             <div className="flex justify-end">
-                <Button text="Book now!" />
+                <Link href={"https://havehopetattoo.com/"} target="_blank">
+                    <Button text="Book now!" />
+                </Link>
             </div>
         </div>
     )

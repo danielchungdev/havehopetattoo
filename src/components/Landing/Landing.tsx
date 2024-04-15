@@ -1,12 +1,15 @@
+import Link from "next/link"
 import { Button } from "../Button"
 import { getImageUrl } from "@/utils/getImageUrl"
 
 export const Landing = () => {
 
+
+
     return (
         <div
             className={`w-screen h-[700px] bg-center bg-cover bg-no-repeat`}
-            style={{backgroundImage: `url(${getImageUrl("wallpaper.jpg")})`}}
+            style={{ backgroundImage: `url(${getImageUrl("wallpaper.jpg")})` }}
         >
             <div className=" max-w-[1000px] m-auto h-full md:m-auto">
                 <div className="pt-[200px] md:pt-[350px]">
@@ -18,7 +21,9 @@ export const Landing = () => {
                             Your award-winning custom tattoo shop in Rochester, Monroe County,
                             NY. We inspire Hope through high-end ink artistry.
                         </p>
-                        <Button text="Book now!" />
+                        <Link href={"https://havehopetattoo.com/"} target="_blank">
+                            <Button text="Book now!" />
+                        </Link>
                     </div>
                 </div>
             </div>
